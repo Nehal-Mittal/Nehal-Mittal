@@ -31,15 +31,6 @@
 
 ---
 
-## 🚀 Currently Working On
-
-- Full-Stack Web Applications
-- Machine Learning Projects
-- Open Source Contributions
-- Backend Architecture
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
