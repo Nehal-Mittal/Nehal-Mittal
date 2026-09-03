@@ -17,16 +17,15 @@
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nehal-Mittal&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehal-Mittal&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://raw.githubusercontent.com/Nehal-Mittal/Nehal-Mittal/main/assets/tech-stack-graph.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nehal-Mittal/Nehal-Mittal/main/assets/project-distribution.svg" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nehal-Mittal&theme=tokyonight&hide_border=true" width="70%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nehal-Mittal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
 </p>
 
 ---
