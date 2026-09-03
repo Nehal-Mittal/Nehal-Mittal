@@ -5,7 +5,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,kotlin,php,react,nodejs,express,flask,spring,pytorch,tensorflow,opencv,sklearn,pandas,numpy,mysql,mongodb,sqlite,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,php,spring,pytorch,tensorflow,opencv,sklearn,pandas,numpy,mysql,mongodb,sqlite,git,github,postman" />
 </p>
 
 ---
