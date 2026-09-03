@@ -16,7 +16,24 @@
 
 ## 📊 GitHub Dashboard
 
-<img src="https://raw.githubusercontent.com/Nehal-Mittal/Nehal-Mittal/main/github-metrics.svg">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nehal-Mittal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehal-Mittal&layout=donut&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nehal-Mittal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nehal-Mittal&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nehal-Mittal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nehal-Mittal&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nehal-Mittal&theme=tokyonight&utcOffset=5.5" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nehal-Mittal&theme=tokyonight&hide_border=true" width="70%" />
