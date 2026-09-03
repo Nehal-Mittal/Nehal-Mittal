@@ -12,21 +12,40 @@
 
 ## 📊 GitHub Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nehal-Mittal&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehal-Mittal&layout=compact&hide_border=true" height="165"/>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nehal-Mittal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" width="100%"/>
+
+</td>
+
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehal-Mittal&layout=compact&hide_border=true&theme=transparent" width="100%"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+<img src="https://streak-stats.demolab.com/?user=Nehal-Mittal&hide_border=true&theme=transparent" width="100%"/>
+
+</td>
+
+<td align="center" width="50%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nehal-Mittal&hide_border=true&area=true&theme=github-compact" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nehal-Mittal&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nehal-Mittal&hide_border=true&area=true" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nehal-Mittal&theme=flat&no-frame=true&no-bg=true&margin-w=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Nehal-Mittal&theme=flat&no-frame=true&no-bg=true&margin-w=6" width="90%"/>
 </p>
 
 ---
