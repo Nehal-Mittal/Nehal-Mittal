@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Nehal Mittal 👋
 
-<!--
-**Nehal-Mittal/Nehal-Mittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+Python • Java • JavaScript • PHP • SQL
+
+### AI / Machine Learning
+Python • PyTorch • TensorFlow • OpenCV • Scikit-learn
+
+### Web Development
+React • Node.js • Express • Flask • Spring Boot
+
+### Databases
+MySQL • MongoDB • SQLite
+
+### Tools
+Git • GitHub • VS Code • Eclipse • Postman
+
+## 📌 Featured Projects
+
+- 💰 **Fake Currency Detection** — Deep learning based counterfeit currency detection
+- 📚 **Smart Library Management System** — AI-assisted library management
+
+
+
