@@ -17,6 +17,10 @@
 ## 📊 GitHub Dashboard
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Nehal-Mittal/Nehal-Mittal/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nehal-Mittal&theme=tokyonight" />
 </p>
 
